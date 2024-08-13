@@ -1,4 +1,4 @@
-# 1. Encapsulation in Personal Budget Management
+####1. Encapsulation in Personal Budget Management
 
 # Objective: The aim of this assignment is to reinforce the understanding of encapsulation in Python, focusing on the use of private attributes and getters and setters. Students will apply these concepts to create a Personal Budget Management system.
 
